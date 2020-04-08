@@ -1,2 +1,2 @@
-# Calculating-Number-PI
+# Calculating Number PI - C#
 Calculating Number PI using Monte Carlo Algorithm
