@@ -1,0 +1,9 @@
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\bin\Debug\MonteCarloPI.exe.config
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\bin\Debug\MonteCarloPI.exe
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\bin\Debug\MonteCarloPI.pdb
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.csprojResolveAssemblyReference.cache
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.Form1.resources
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.Properties.Resources.resources
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.csproj.GenerateResource.Cache
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.exe
+c:\users\asrinfindik\documents\visual studio 2015\Projects\MonteCarloPI\MonteCarloPI\obj\Debug\MonteCarloPI.pdb
